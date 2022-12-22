@@ -14,7 +14,8 @@ Curso Danki Code Desenvolvimento Web.
 </p>
 
 <p align="center">
-  <img alt="Calendario da copa" src="https://github.com/AugustoMota/Calendari-Copa-do-Mundo-2022/blob/main/github/Capa.png">
+  <img alt="Calendario da copa" src="https://github.com/AugustoMota/LP-Agencia/blob/main/img/gitpng.png">
+  
 </p>
 
 <br>
