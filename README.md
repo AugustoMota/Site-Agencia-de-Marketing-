@@ -21,7 +21,7 @@ Curso Danki Code Desenvolvimento Web.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+<img alt="Calendario da copa" src="https://github.com/AugustoMota/LP-Agencia/blob/main/img/git2.png">
 </p>
 
 ## 🚀 Tecnologias
